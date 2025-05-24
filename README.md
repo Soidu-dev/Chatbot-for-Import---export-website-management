@@ -1,2 +1,15 @@
 # Chatbot-for-Import---export-website-management
-A springboot project on chatbot to help manage employee details and management.
+A SpringBoot project as 'Chatbot for Import-export management website' where user can convienently access the employees data and edit using it. 
+The project uses Springboot with dependencies like : 
+1) java servlet
+2) lambok
+3) sql dependencies
+and more to set a backend server along with a database in MySQL.
+----------------------
+To RUN this project :-
+1) Extract Chatbot service zip file and open in compiler (recommmended : Intelliji Idea).
+2) Run ChatbotServiceApplication.
+3) Extract Chatbot frontend zip file and run the html file.
+4) Interact with the user-friendly chatbot,
+----------------------
+Warning : To sign-in gmail, user has to use domain ending @jsw.in (EX:- example@jsw.in).
