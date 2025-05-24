@@ -1,10 +1,10 @@
 # Chatbot-for-Import---export-website-management
 A SpringBoot project as 'Chatbot for Import-export management website' where user can convienently access the employees data and edit using it. 
 The project uses Springboot with dependencies like : 
-1) java servlet
-2) lambok
-3) sql dependencies
-and more to set a backend server along with a database in MySQL.
+1) Lombok
+2) Spring Data JPA
+3) MySQL Driver
+4) Spring Web 
 ----------------------
 To RUN this project :-
 1) Extract Chatbot service zip file and open in compiler (recommmended : Intelliji Idea).
